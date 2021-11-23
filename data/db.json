@@ -1,18 +1,16 @@
 {
-    "blogs" : [
-        {
-            "title"  : "My First Blog",
-            "body"   : "Why do we use it?\nIt is a long establisdhed fact that a reader will be distracted",
-            "author" : "mario",
-            "id"     : 1
-
-        },
-        {
-            "title"  : "Opening Party",
-            "body"   : "Why do we use it?\nIt is a long establisdhed fact that a reader will be distracted",
-            "author" : "yoshi",
-            "id"     : 2
-
-        }
-    ]
+  "blogs": [
+    {
+      "title": "bagel man bagels",
+      "body": "This is a blog about bagelman bagels. A true blue hero. ",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "How the grinch stole X-mas",
+      "body": "You won't believe this story. it is crazy!!!",
+      "author": "yoshi",
+      "id": 4
+    }
+  ]
 }
